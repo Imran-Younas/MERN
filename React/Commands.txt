@@ -1,0 +1,2 @@
+Open Terminal
+npm create vite@version (then follow instruction)
